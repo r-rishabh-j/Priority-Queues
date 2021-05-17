@@ -6,10 +6,10 @@
 #include<vector>
 #include<queue>
 #include<algorithm>
-#include<stack>
 #include<list>
 #include<iterator>
-#include<map>
+// #include<stack>
+// #include<map>
 using namespace std;
 
 typedef long long int lint;

@@ -1,5 +1,5 @@
 # Priority-Queues
-To implement Johnson's APSP algorithm using 4 different priority queues and compare their relative performance.
+Implementation of Johnson's APSP algorithm using 4 different priority queues and a comparision of their relative performance.
 
 ## Steps to run
 Compile the program by-

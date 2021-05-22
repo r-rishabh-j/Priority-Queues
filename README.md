@@ -30,6 +30,6 @@ If an edge does not exit between two vertices, enter the edge weight as '999999'
 ## Output format
 For each test case,
 1. -1 is printed if a negative cycle exists in the graph.
-2. Else, N lines are printed, in which the k<sup>th</sup> entry in the i<sup>th</sup> row tells the lenght of the shortest path from the k<sup>th</sup> vertex from the i<sup>th</sup> vertex.
+2. Else, N lines are printed, in which the k<sup>th</sup> entry in the i<sup>th</sup> line tells the lenght of the shortest path to the k<sup>th</sup> vertex from the i<sup>th</sup> vertex.
 
-The last line of the output contains the time taken for each of the testcases to complete.
+The last line of the output contains the time taken for each of the testcases to complete, with the k<sup>th</sup> entry corresponding to the k<sup>th</sup> testcase.
